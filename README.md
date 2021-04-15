@@ -1,4 +1,7 @@
-# Marie-2.0-English
+![MrHackfreaks](https://telegra.ph/file/2f95bf81d189efe1cfd7b.jpg) 
+
+# Group_supporter_bot
+
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
 Originally a simple group management bot with multiple admin features, it has evolved, becoming extremely modular and 
