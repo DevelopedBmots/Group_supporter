@@ -38,6 +38,8 @@ HELP_STRINGS = """
 
 Hello! my name *{}*.
 
+Here you can check my available commands.  If you have any query about me go to my [website](https://telegra.ph/Group-supporter-04-11-2) or visit my [support group](t.me/Groupsupporter_chat) .
+
 *Main* available commands:
  - /start: Start the bot...
  - /help: help....
