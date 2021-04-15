@@ -54,7 +54,7 @@ And the following:
 
 DONATE_STRING = """Hey, glad to hear you want to donate!
 It took lots of work for [my creator](t.me/kunaldiwan) to get me to where I am now, and every donation helps \
-motivate him to make me even better. All the donation money will go to a better VPS to host me, and to make me best bot .
+motivate him to make me even better. All the donation money will go to a better VPS to host me, and to make me best bot \
 There are two ways of paying him; [Paypal](paypal.me/kunaldiwan1), or [Paytm](https://p.paytm.me/xCTH/7296282f)."""
 
 IMPORTED = {}
