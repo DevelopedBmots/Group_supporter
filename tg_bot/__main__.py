@@ -26,7 +26,7 @@ PM_START_TEXT = """
 
 𝐇𝐢𝐭 /help to 𝐤𝐧𝐨𝐰 𝐦𝐨𝐫𝐞 𝐚𝐛𝐨𝐮𝐭 𝐦𝐲 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐬 .
 
-𝐉𝐨𝐢𝐧 𝐦𝐲 📢 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 - @Groupsupporter_support 𝐭𝐨 𝐠𝐞𝐭 𝐮𝐩𝐝𝐚𝐭𝐞𝐝 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐚𝐥𝐬𝐨 𝐣𝐨𝐢𝐧 𝐦𝐲 🔈𝐝𝐢𝐬𝐜𝐮𝐬𝐬𝐢𝐨𝐧 𝐠𝐫𝐨𝐮𝐩 - @Groupsupporter_chat 𝐭𝐨 𝐚𝐬𝐤 𝐚𝐧𝐲 𝐪𝐮𝐞𝐫𝐲 𝐚𝐧𝐝 𝐛𝐮𝐠𝐬 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞.   
+𝐉𝐨𝐢𝐧 𝐦𝐲 [ 📢 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 - @Groupsupporter_support ] 𝐭𝐨 𝐠𝐞𝐭 𝐮𝐩𝐝𝐚𝐭𝐞𝐝 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞 𝐚𝐧𝐝 𝐚𝐥𝐬𝐨 𝐣𝐨𝐢𝐧 𝐦𝐲 [🔈𝐝𝐢𝐬𝐜𝐮𝐬𝐬𝐢𝐨𝐧 𝐠𝐫𝐨𝐮𝐩 - @Groupsupporter_chat ] 𝐭𝐨 𝐚𝐬𝐤 𝐚𝐧𝐲 𝐪𝐮𝐞𝐫𝐲 𝐚𝐧𝐝 𝐛𝐮𝐠𝐬 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞.   
 
 ➕ 𝐀𝐝𝐝 𝐦𝐞 𝐭𝐨 𝐲𝐨𝐮𝐫 𝐜𝐡𝐚𝐭 𝐠𝐫𝐨𝐮𝐩  ➕ - [Click here](http://t.me/Group_supporter_bot?startgroup=start)
 
@@ -52,11 +52,10 @@ Here you can check my available commands.  If you have any query about me go to 
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll of the following commands  / or ! can  be used...\n")
 
-DONATE_STRING = """Heya, glad to hear you want to donate!
-It took lots of work for [my creator](t.me/SonOfLars) to get me to where I am now, and every donation helps \
-motivate him to make me even better. All the donation money will go to a better VPS to host me, and/or beer \
-(see his bio!). He's just a poor student, so every little helps!
-There are two ways of paying him; [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
+DONATE_STRING = """Hey, glad to hear you want to donate!
+It took lots of work for [my creator](t.me/kunaldiwan) to get me to where I am now, and every donation helps \
+motivate him to make me even better. All the donation money will go to a better VPS to host me, and to make me best bot .
+There are two ways of paying him; [Paypal](paypal.me/kunaldiwan1), or [Paytm](https://p.paytm.me/xCTH/7296282f)."""
 
 IMPORTED = {}
 MIGRATEABLE = []
