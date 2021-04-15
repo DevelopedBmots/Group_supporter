@@ -20,19 +20,18 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 START_IMG = "https://telegra.ph/file/0C834BA25E8BEC3342144.JPG" 
 
 PM_START_TEXT = """
-hoi {}, my name is {}! if you have any questions about how to use me please give me /help... 
+𝐇𝐞𝐥𝐥𝐨 {}, 𝐦𝐲 𝐧𝐚𝐦𝐞 𝐢𝐬 {}!  
 
-im a group manager bot maintained by  [this person](tg://user?id={}).
+𝐈 𝐚𝐦 𝐚 𝐩𝐫𝐨 𝐠𝐫𝐨𝐮𝐩 𝐦𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐛𝐨𝐭 𝐰𝐢𝐭𝐡 𝐬𝐨𝐦𝐞 𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐟𝐞𝐚𝐭𝐮𝐫𝐞𝐬. 𝐈 𝐜𝐚𝐧 𝐡𝐞𝐥𝐩 𝐲𝐨𝐮 𝐭𝐨 𝐦𝐚𝐧𝐚𝐠𝐞 𝐲𝐨𝐮𝐫 𝐠𝐫𝐨𝐮𝐩 𝐞𝐚𝐬𝐢𝐥𝐲 𝐚𝐧𝐝 𝐬𝐦𝐨𝐨𝐭𝐡𝐥𝐲.    
 
-My future updates will be put into This Channel - @MarieChechi & My Support Group @InFoTelGroup.
+𝐇𝐢𝐭 /help to 𝐤𝐧𝐨𝐰 𝐦𝐨𝐫𝐞 𝐚𝐛𝐨𝐮𝐭 𝐦𝐲 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐬 .
 
-This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/TGExplore/Marie-2.0-English),
-you can create clone same like me..
+𝐉𝐨𝐢𝐧 𝐦𝐲 [📢 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 𝐜𝐡𝐚𝐧𝐧𝐞𝐥](t.me/Groupsupporter_support) 𝐚𝐧𝐝 [🔈𝐝𝐢𝐬𝐜𝐮𝐬𝐬𝐢𝐨𝐧 𝐠𝐫𝐨𝐮𝐩](Groupsupporter_chat) .
 
-For more commands click /help...
+➕ 𝐀𝐝𝐝 𝐦𝐞 𝐭𝐨 𝐲𝐨𝐮𝐫 𝐜𝐡𝐚𝐭 𝐠𝐫𝐨𝐮𝐩  ➕ - [Click here](http://t.me/Group_supporter_bot?startgroup=start)
 
-**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
-
+==========================
+==========================
 """
 
 HELP_STRINGS = """
