@@ -26,7 +26,7 @@ PM_START_TEXT = """
 
 𝐇𝐢𝐭 /help to 𝐤𝐧𝐨𝐰 𝐦𝐨𝐫𝐞 𝐚𝐛𝐨𝐮𝐭 𝐦𝐲 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐬 .
 
-𝐉𝐨𝐢𝐧 𝐦𝐲 [📢 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 𝐜𝐡𝐚𝐧𝐧𝐞𝐥](t.me/Groupsupporter_support) 𝐚𝐧𝐝 [🔈𝐝𝐢𝐬𝐜𝐮𝐬𝐬𝐢𝐨𝐧 𝐠𝐫𝐨𝐮𝐩](Groupsupporter_chat) .
+𝐉𝐨𝐢𝐧 𝐦𝐲 [📢 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 𝐜𝐡𝐚𝐧𝐧𝐞𝐥](t.me/Groupsupporter_support) 𝐚𝐧𝐝 [🔈𝐝𝐢𝐬𝐜𝐮𝐬𝐬𝐢𝐨𝐧 𝐠𝐫𝐨𝐮𝐩](t.me/Groupsupporter_chat) .
 
 ➕ 𝐀𝐝𝐝 𝐦𝐞 𝐭𝐨 𝐲𝐨𝐮𝐫 𝐜𝐡𝐚𝐭 𝐠𝐫𝐨𝐮𝐩  ➕ - [Click here](http://t.me/Group_supporter_bot?startgroup=start)
 
