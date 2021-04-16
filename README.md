@@ -1,4 +1,4 @@
-([![Deploy](https://telegra.ph/file/03a1c922fc52a37cd99b8.jpg) (https://www.herokucdn.com/deploy/button.svg)(https://heroku.com/deploy?template=https://github.com/kunal1405/GROUPSUPPORTER)) 
+[![Deploy](https://telegra.ph/file/03a1c922fc52a37cd99b8.jpg)(https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kunal1405/GROUPSUPPORTER)
 
 # 𝐆𝐫𝐨𝐮𝐩 𝐬𝐮𝐩𝐩𝐨𝐫𝐭𝐞𝐫
 
