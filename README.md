@@ -1,4 +1,4 @@
-https://telegra.ph/file/03a1c922fc52a37cd99b8.jpg
+![GROUP SUPPORTER](https://telegra.ph/file/03A1C922FC52A37CD99B8.JPG) 
 
 # 𝐆𝐫𝐨𝐮𝐩 𝐬𝐮𝐩𝐩𝐨𝐫𝐭𝐞𝐫
 
