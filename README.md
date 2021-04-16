@@ -20,7 +20,7 @@ announcements.
 
 Alternatively, [find me on telegram](https://t.me/kunaldiwan)! (Keep all support questions in the support chat, where more people can help you.)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kunal1405/GROUPSUPPORTER)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kunal1405/Group_supporter)
 
 ## Starting the bot.
 
