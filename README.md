@@ -20,6 +20,8 @@ announcements.
 
 Alternatively, [find me on telegram](https://t.me/kunaldiwan)! (Keep all support questions in the support chat, where more people can help you.)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kunal1405/GROUPSUPPORTER)
+
 ## Starting the bot.
 
 Once you've setup your database and your configuration (see below) is complete, simply run:
